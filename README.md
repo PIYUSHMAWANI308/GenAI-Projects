@@ -49,3 +49,8 @@ I am building real-world GenAI projects with clean code and meaningful commits t
 
 GitHub: https://github.com/PIYUSHMAWANI308  
 LinkedIn: https://www.linkedin.com/in/pankaj-mawani-043632345/
+
+
+## Learning Progress
+- Git & GitHub fundamentals completed
+- Starting GenAI core concepts
