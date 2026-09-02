@@ -1,56 +1,88 @@
-# GenAI-Projects
-GenAI projects using Python, LangChain, and LLMs
-# GenAI-Projects
+# 🤖 GenAI Projects
 
-This repository contains my hands-on Generative AI (GenAI) projects using Python, LangChain, and large language models (LLMs).  
-I am building these projects as part of my journey toward securing a GenAI internship.
+A collection of hands-on **Generative AI projects** built using Python, LangChain, LLMs, RAG, embeddings, and vector databases.
+
+I'm building these projects to develop practical skills for **GenAI / AI Engineer roles**.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack
 
-- 🐍 Python  
-- 🤖 LangChain  
-- 📚 OpenAI / HuggingFace APIs  
-- 🔍 Vector Databases (FAISS / Chroma)  
-- 🧠 Retrieval-Augmented Generation (RAG)
+* 🐍 Python
+* 🔗 LangChain
+* 🤖 OpenAI / Groq / Hugging Face
+* 🧠 LLMs & Prompt Engineering
+* 🔍 RAG & Embeddings
+* 🗃️ FAISS / ChromaDB
+* 🖥️ Streamlit
+* 🐙 Git & GitHub
 
 ---
 
 ## 📂 Projects
 
-## 1️⃣ AI Chatbot
-  
-A conversational AI chatbot built using Python, LangChain, and LLM APIs to generate intelligent responses based on user prompts.
+### 1. 📄 Conversational PDF Q&A System using RAG
 
-📌 Features:
-- Chat interface
-- Prompt handling
-- Response generation
+Chat with PDF documents using **RAG, embeddings, vector search, and LLMs**.
 
-## 2. PDF / Document Chatbot (RAG)  
-Interact with documents using a GenAI chatbot powered by LangChain and vector search.
+🔗 [View Project](https://github.com/PIYUSHMAWANI308/GenAI-Projects/tree/main/Conversational%20PDF%20Q%26A%20System%20using%20RAG)
 
-## 3. Future Projects  
-- Resume analyzer  
-- CSV/Text Q&A system  
-- Other cool GenAI tools
-- Resume analyzer using LLMs
+**Tech:** Python · LangChain · RAG · Embeddings · Vector Database · LLM · Streamlit
 
 ---
 
-## 📈 Contribution
+### 2. 🤖 AI Chatbot
 
-I am building real-world GenAI projects with clean code and meaningful commits to demonstrate my practical understanding of LLM-based applications.
+Conversational AI chatbot using an LLM to generate responses based on user prompts.
+
+**Tech:** Python · LangChain · LLM API · Streamlit
 
 ---
 
-## 📫 Connect with me
+### 3. 📰 AI News Analyzer
 
-GitHub: https://github.com/PIYUSHMAWANI308  
-LinkedIn: https://www.linkedin.com/in/pankaj-mawani-043632345/
+AI-powered application for analyzing news content and generating insights.
 
+**Tech:** Python · LLMs · APIs · Prompt Engineering
 
-## Learning Progress
-- Git & GitHub fundamentals completed
-- Starting GenAI core concepts
+---
+
+### 4. ▶️ YouTube & Web Content Summarizer
+
+Summarizes YouTube videos and web content using LLMs.
+
+**Tech:** Python · LangChain · LLMs · Streamlit
+
+---
+
+### 5. 🗃️ AI SQL Assistant
+
+Interact with databases using natural language and LLM-powered SQL generation.
+
+**Tech:** Python · LangChain · SQL · SQLite · LLM · Streamlit
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced RAG
+* AI Agents
+* LangGraph
+* Tool Calling
+* LLM Evaluation
+* FastAPI
+* GenAI Deployment
+
+---
+
+## 🎯 Goal
+
+Build practical, production-oriented **Generative AI applications** and grow toward a **GenAI / AI Engineer** role.
+
+---
+
+## 📫 Connect
+
+**GitHub:** [PIYUSHMAWANI308](https://github.com/PIYUSHMAWANI308)
+
+**LinkedIn:** [Pankaj Mawani](https://www.linkedin.com/in/pankaj-mawani-043632345/)
